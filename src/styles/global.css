@@ -1,11 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap");
 @import "tailwindcss";
 
+
 :root {
-    --color-bg-body: #1c2025;
-    --color-text-body: #ffffff;
+    --color-bg-body: #1C2025;
+    --tangerine: #FF6247;
+    --white: #F4FCFE;
+    --font-family-body: "Rubik", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 body {
     background-color: var(--color-bg-body);
+    color: var(--color-text-body);
+    font-family: var(--font-family-body);
 }
 
