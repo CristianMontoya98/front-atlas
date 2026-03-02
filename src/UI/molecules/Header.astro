@@ -1,5 +1,8 @@
 ---
 import '../../styles/global.css';
+import frontResources from '../../utils/front-resources.json';
+const resources = frontResources.resources;
+console.log('resources:', resources);
 ---
 
 <header class='relative overflow-hidden flex flex-col justify-center items-center h-screen'>
@@ -25,4 +28,5 @@ import '../../styles/global.css';
 	<h2 class='relative z-10 text-[24px] max-w-[400px] text-[var(--white)] text-center italic'>
 		Los mejores recursos <span class='text-[var(--tangerine)]'>web</span> para <span class='text-[var(--tangerine)]'>Front-end</span>
 	</h2>
+	<h2 class='relative z-10 text-[24px] max-w-[400px] text-[var(--white)] text-center italic'>Ir abajo para ver los recursos</h2>
 </header>
