@@ -4,73 +4,88 @@
             "id":"1",
             "name": "Bg ibelick",
             "url": "https://bg.ibelick.com/",
-            "description": "Coleccion de fondos para sitios web construidos con Tailwind CSS"
+            "description": "Coleccion de fondos para sitios web construidos con Tailwind CSS",
+            "image": "/src/assets/img/bgIbelick.webp"
         },
         {
             "id":"2",
             "name": "Animate on scroll library",
             "url": "https://michalsnik.github.io/aos/",
-            "description": "Libreria de animaciones para scroll intuitiva y facil de implementar"
+            "description": "Libreria de animaciones para scroll intuitiva y facil de implementar",
+            "image": "/src/assets/img/animateOnScroll.webp"
         },
         {
             "id":"3",
             "name": "Specificity Calculator",
             "url": "https://specificity.keegan.st/",
-            "description": "Calculadora de especificidad, una manera visual para entender la especificad de CSS, pegas tus selectores y te da el orden de especificidad"
+            "description": "Calculadora de especificidad, una manera visual para entender la especificad de CSS, pegas tus selectores y te da el orden de especificidad",
+            "image": "/src/assets/img/specifyCalc.webp"
+
         },
         {
             "id":"4",
             "name": "Get waves",
             "url": "https://getwaves.io/",
-            "description": "Herramienta para crear separadores en formas de ondas en formato svg"
+            "description": "Herramienta para crear separadores en formas de ondas en formato svg",
+            "image": "/src/assets/img/getWaves.webp"
+
         },
         {
             "id":"5",
             "name": "Free frontend",
             "url": "https://freefrontend.com/",
-            "description": "Colección de componentes construidos con css y javascript"
+            "description": "Colección de componentes construidos con css y javascript",
+            "image": "/src/assets/img/Freefrontend.webp"
         },
         {
             "id":"6",
             "name": "Shape divider app",
             "url": "https://www.shapedivider.app/",
-            "description": "Crea separadores con formas personalizadas"
+            "description": "Crea separadores con formas personalizadas",
+            "image": "/src/assets/img/shapeDivider.webp"
+            
         },
         {
             "id":"7",
-            "name": "Beautiful CSS box-shadow examples",
+            "name": "Beautiful CSS box-shadow",
             "url": "https://getcssscan.com/css-box-shadow-examples",
-            "description": "Colección de CSS scan con diferentes ejemplos de box-shadow"
+            "description": "Colección de CSS scan con diferentes ejemplos de box-shadow",
+            "image": "/src/assets/img/cssScan.webp"
         },
         {
             "id":"8",
             "name": "UIVerse",
             "url": "https://uiverse.io/",
-            "description": "La biblioteca más grande de componentes UI open source"
+            "description": "La biblioteca más grande de componentes UI open source",
+            "image": "/src/assets/img/uiVerse.webp"
         },
         {
             "id":"9",
             "name": "SVG repo",
             "url": "https://www.svgrepo.com/",
-            "description": "Repositorio de iconos y vectores SVG open-licensed"
+            "description": "Repositorio de iconos y vectores SVG open-licensed",
+            "image": "/src/assets/img/svgRepo.webp"
         },
         {
             "id":"10",
             "name": "UI ball LDRS",
             "url": "https://uiball.com/ldrs/",
-            "description": "Librería de loaders y spinners, disponible para React y web components"
+            "description": "Librería de loaders y spinners, disponible para React y web components",
+            "image": "/src/assets/img/ldrs.webp"
         },
         {
             "id":"11",
             "name": "Shots",
             "url": "https://shots.so/",
-            "description": "Herramienta para crear imagenes profesionales de mockups"
+            "description": "Herramienta para crear imagenes profesionales de mockups",
+            "image": "/src/assets/img/shots.webp"
         },
         {
             "id":"12",
             "name": "tiny png",
             "url": "https://tinypng.com/",
-            "description": "Herramienta para comprimir imagenes en formatos compatibles con el rendimiento web"
+            "description": "Herramienta para comprimir imagenes en formatos compatibles con el rendimiento web",
+            "image": "/src/assets/img/tinyPng.webp"
         }
     ]
 }
