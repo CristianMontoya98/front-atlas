@@ -18,7 +18,7 @@
             "id":"3",
             "name": "Specificity Calculator",
             "url": "https://specificity.keegan.st/",
-            "description": "Calculadora de especificidad, una manera visual para entender la especificad de CSS, pegas tus selectores y te da el orden de especificidad",
+            "description": "Evalua la especificidad de tus selectores CSS",
             "image": "/src/assets/img/specifyCalc.webp"
 
         },
@@ -84,7 +84,7 @@
             "id":"12",
             "name": "tiny png",
             "url": "https://tinypng.com/",
-            "description": "Herramienta para comprimir imagenes en formatos compatibles con el rendimiento web",
+            "description": "Comprime imagenes en formatos compatibles con el rendimiento web",
             "image": "/src/assets/img/tinyPng.webp"
         }
     ]
