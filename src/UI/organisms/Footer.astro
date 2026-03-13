@@ -1,0 +1,31 @@
+---
+import { Image } from 'astro:assets';
+import logoFooter from '../../assets/img/logoFooter.svg';
+---
+
+<footer class='mt-[60px] md:mt-[120px] w-full h-[150px]'>
+	<div class='flex items-center justify-center gap-8'>
+		<div class='bg-(--tangerine)/30 w-[40%] h-[3px] rounded-full'></div>
+		<Image
+			src={logoFooter}
+			alt='logo de Cristian Montoya'
+			class='w-[60px] h-[60px] sm:w-[70px] sm:h-[70px]'
+			loading='lazy'
+			draggable='false'
+		/>
+		<div class='bg-(--tangerine)/30 w-[40%] h-[3px] rounded-full'></div>
+	</div>
+	<div class='flex flex-col items-center justify-center w-full h-full text-[20px]'>
+		<a
+			class='text-(--white) font-semibold hover:text-(--tangerine) transition-[transform, translate] duration-700 ease-out hover:-translate-y-3'
+			href='https://github.com/CristianMontoya98'
+			target='_blank'
+		>
+			Cristian Montoya 2026.
+		</a>
+		<div class='flex items-center justify-center gap-2'>
+			<h3 class='text-(--tangerine)/50 italic'>Construido con Astro</h3>
+			<!-- <AstroIcon2 class='w-[35px] h-[35px]' /> -->
+		</div>
+	</div>
+</footer>
