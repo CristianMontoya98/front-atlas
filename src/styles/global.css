@@ -17,6 +17,11 @@ body {
     background-color: var(--color-bg-body);
     color: var(--color-text-body);
     font-family: var(--font-family-body);
+    /* Rejilla/texture sutil global */
+    background-image:
+        linear-gradient(to right, rgba(244, 252, 254, 0.02) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(244, 252, 254, 0.02) 1px, transparent 1px);
+    background-size: 64px 64px;
 }
 
 .mouse_scroll {
@@ -34,8 +39,8 @@ body {
     -ms-transform: rotate(45deg); /* IE 9 */
     -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
     transform: rotate(45deg);
-    border-right: 4px solid var(--tangerine);
-    border-bottom: 4px solid var(--tangerine);
+    border-right: 5px solid var(--tangerine);
+    border-bottom: 5px solid var(--tangerine);
     margin: 0 0 3px 4px;
     width: 16px;
     height: 16px;
