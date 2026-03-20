@@ -1,6 +1,8 @@
 ---
 import { Image } from 'astro:assets';
 import logoFooter from '../../assets/img/logoFooter.svg';
+import LinkedIcon from '../../assets/icons/Linked-icon.astro';
+import GithubIcon from '../../assets/icons/Github-icon.astro';
 ---
 
 <footer class='mt-[60px] md:mt-[120px] w-full h-[150px]'>
@@ -16,16 +18,29 @@ import logoFooter from '../../assets/img/logoFooter.svg';
 		<div class='bg-(--tangerine)/30 w-[40%] h-[3px] rounded-full'></div>
 	</div>
 	<div class='flex flex-col items-center justify-center w-full h-full text-[20px]'>
+		<div class='flex items-center justify-center gap-2'>
+			<h3 class='text-(--tangerine)/50 italic'>Construido con Astro</h3>
+		</div>
 		<a
-			class='text-(--white) font-semibold hover:text-(--tangerine) transition-[transform, translate] duration-700 ease-out hover:-translate-y-3'
+			class='text-(--white) font-semibold hover:text-(--tangerine)'
 			href='https://cristianmontoya.dev/es/'
 			target='_blank'
 		>
 			Cristian Montoya 2026.
 		</a>
-		<div class='flex items-center justify-center gap-2'>
-			<h3 class='text-(--tangerine)/50 italic'>Construido con Astro</h3>
-			<!-- <AstroIcon2 class='w-[35px] h-[35px]' /> -->
+		<div class='flex gap-2 mt-3'>
+			<a
+				href='https://www.linkedin.com/in/cristian-montoya-lopez/'
+				target='_blank'
+			>
+				<LinkedIcon class='w-7 h-7 transition-transform duration-200 ease-out hover:scale-110 hover:drop-shadow-[0_0_4px_#FF6247]' />
+			</a>
+			<a
+				href='https://github.com/CristianMontoya98'
+				target='_blank'
+			>
+				<GithubIcon class='w-8 h-8 transition-transform duration-200 ease-out hover:scale-110 hover:drop-shadow-[0_0_4px_#FF6247]' />
+			</a>
 		</div>
 	</div>
 </footer>
