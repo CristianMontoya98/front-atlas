@@ -7,3 +7,7 @@ Mobile UI:
 Desktop UI: 
 
 <img width="960" height="720" alt="690_1x_shots_so" src="https://github.com/user-attachments/assets/257054b3-8f04-4acb-bbe4-40939d5d1051" />
+
+Landing page that gathers the best web resources for front-end development.
+
+Deploy:
