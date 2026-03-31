@@ -12,3 +12,5 @@ Landing page that gathers the best web resources for front-end development.
 
 Deploy:
 [Front Atlas](https://front-atlas.netlify.app/)
+
+🚀 Build with Astro
