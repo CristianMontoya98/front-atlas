@@ -1,46 +1,16 @@
-# Astro Starter Kit: Basics
+# 📓 Front Atlas
 
-```sh
-npm create astro@latest -- --template basics
-```
+Mobile UI:
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+<img width="960" height="720" alt="649_1x_shots_so" src="https://github.com/user-attachments/assets/ca767fe9-58ae-4295-ac7f-2ef2b6ca26f4" />
 
-## 🚀 Project Structure
+Desktop UI: 
 
-Inside of your Astro project, you'll see the following folders and files:
+<img width="960" height="720" alt="690_1x_shots_so" src="https://github.com/user-attachments/assets/257054b3-8f04-4acb-bbe4-40939d5d1051" />
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
+Landing page that gathers the best web resources for front-end development.
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+Deploy:
+[Front Atlas](https://front-atlas.netlify.app/)
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+🚀 Build with Astro
