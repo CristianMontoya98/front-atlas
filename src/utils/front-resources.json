@@ -86,6 +86,13 @@
             "url": "https://tinypng.com/",
             "description": "Comprime imagenes en formatos compatibles con el rendimiento web",
             "image": "/assets/img/tinyPng.webp"
+        },
+        {
+            "id":"13",
+            "name": "Iconoir",
+            "url": "https://iconoir.com/",
+            "description": "Libreria de iconos SVG open-licensed",
+            "image": "/assets/img/iconoir.webp"
         }
     ]
 }
